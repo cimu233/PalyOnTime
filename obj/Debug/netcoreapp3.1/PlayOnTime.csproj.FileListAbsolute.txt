@@ -1,0 +1,14 @@
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\bin\Debug\netcoreapp3.1\PlayOnTime.exe
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\bin\Debug\netcoreapp3.1\PlayOnTime.deps.json
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\bin\Debug\netcoreapp3.1\PlayOnTime.runtimeconfig.json
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\bin\Debug\netcoreapp3.1\PlayOnTime.runtimeconfig.dev.json
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\bin\Debug\netcoreapp3.1\PlayOnTime.dll
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\bin\Debug\netcoreapp3.1\PlayOnTime.pdb
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\obj\Debug\netcoreapp3.1\PlayOnTime.csproj.AssemblyReference.cache
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\obj\Debug\netcoreapp3.1\PlayOnTime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\obj\Debug\netcoreapp3.1\PlayOnTime.AssemblyInfoInputs.cache
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\obj\Debug\netcoreapp3.1\PlayOnTime.AssemblyInfo.cs
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\obj\Debug\netcoreapp3.1\PlayOnTime.csproj.CoreCompileInputs.cache
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\obj\Debug\netcoreapp3.1\PlayOnTime.dll
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\obj\Debug\netcoreapp3.1\PlayOnTime.pdb
+D:\Documents\VS2022\LiuCShrpLrn\PlayOnTime\PlayOnTime\obj\Debug\netcoreapp3.1\PlayOnTime.genruntimeconfig.cache
